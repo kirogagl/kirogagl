@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirogagl
 - 👀 I’m interested in 3d and programming
-- 🌱 I’m currently learning in North Caucasian Institute of mining and metallurgy
+- 🌱 I’m currently learning in North Caucasian institute of mining and metallurgy
 - 📫 How to reach me: kirogagl@gmail.com
 
 <img src="https://github.com/kirogagl/kirogagl/blob/main/ava7.png">
