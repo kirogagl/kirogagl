@@ -4,6 +4,22 @@
 
 <p>My Last Name: Gagloev</p>
 <p>My Name: Kirill</p>
+<p>
+	My mails:
+</p>
+<p>
+	<ul>
+		<li>
+			<a href="mailto:kirogagl@gmail.com">kirogagl@gmail.com</a>
+		</li>
+		<li>
+			<a href="mailto:kirogagl@yandex.ru">kirogagl@yandex.ru</a>
+		</li>
+		<li>
+			<a href="mailto:kirogagl1603@outlook.com">kirogagl1603@outlook.com</a>
+		</li>
+	</ul>
+</p>
 <img src="https://github.com/kirogagl/kirogagl/blob/main/ava7.png">
 
 <!---
@@ -14,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 		<p><font color = "FFFFFF"> My repositories: </font></p>
 </h1>
 <h2>
-	<ul style="color:76FF00">
+	<ul>
 		<li>
 			<a href="https://github.com/kirogagl/MoneyJournal" style="color:#60A2FF;"> MoneyJournal </a>
 		</li>
